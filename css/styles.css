@@ -292,6 +292,7 @@ a {
 .work-list .item {
   width: calc((100% - 60px) / 3);
   margin-right: 30px;
+  margin-bottom: 30px;
 	background: var(--main-bg-color);
   border: 1px solid var(--border-portfolio-color);
   box-sizing: border-box;
