@@ -294,7 +294,7 @@ a {
   margin-right: 30px;
   margin-bottom: 30px;
 }
-work-item a {
+.work-item a {
 	display: block;
 }
 .work-list .content {
